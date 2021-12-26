@@ -1,2 +1,2 @@
 # fakenewsdetection
-testing different classifiers accuracy at identifying fake news 
+testing different classifiers' accuracy at identifying fake news 
